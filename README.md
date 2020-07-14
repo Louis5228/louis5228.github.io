@@ -1,6 +1,5 @@
 # DiaboloKiat-Website
 
 ### Personal Webpage Template 
-```
-- https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-```
+* https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+
